@@ -96,7 +96,7 @@ Steps:
 ---
 
 ## Acknowledgments
-This tutorial builds on the SBOM Tool developed by Microsoft. For more information, visit the [official SBOM Tool repository](https://github.com/microsoft/sbom-tool).
+This tutorial builds on the SBOM Tool developed by Microsoft. For more information, visit the [official SBOM Tool repository](https://github.com/microsoft/sbom-tool). We also ackowledge the use of generative intelligence in assisting with the materials of this page, however the materials have been verified and edited by humans before commiting on github.
 
 ---
 
