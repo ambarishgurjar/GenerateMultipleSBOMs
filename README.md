@@ -116,9 +116,8 @@ If you discover a security vulnerability, please report it as per the [security 
 ---
 
 ## Trademarks
-Microsoft and SBOM Tool are trademarks or registered trademarks of Microsoft Corporation.
+Microsoft is registered trademarks of Microsoft Corporation.
 
 ---
-
 Enjoy using this tutorial and feel free to share your feedback or create a pull request to enhance the project.
 
